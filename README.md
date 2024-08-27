@@ -1,10 +1,5 @@
-This is an Ethereum dApp Blockchain project,through this one we can connect our meta mask wallet and can send waves or some messages to each other,and the owner of the wallet can easily mined that and get that wave from the client or the other wallet user.
-
-![Screenshot ukd22 (461)](https://user-images.githubusercontent.com/111123125/226160651-e8253e7d-624a-4d06-bccf-dc06647a512f.png)
-
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+It is deployed on Educhain with the help of Remix. Contract Address:0xE4a019760E5e1992f38EfE2f40C5D7FF4f6C5DF9 Wallet Address 0x33BE9Ca6dde7F2BD892509b83CFE1c8dD980E31C was used in the depolyment.
+This is an EVM Blockchain project, through this one we can connect our meta mask wallet and can send waves or some messages to each other,and the owner of the wallet can easily mined that and get that wave from the client or the other wallet user.
 
 Try running some of the following tasks:
 
@@ -15,10 +10,3 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-
-
-
-https://waveportal-starter-project.ukd1211.repl.co/
-
-
-https://replit.com/join/rtuvbkedbk-ukd1211
